@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+nav {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+.navbar form > .btn {
+    background: #0099ff;
+    font-weight: 900;
+    font-size: 15px;
+}
+.btn-subir {
+    background: #009966;
+    font-weight: 900;
+}
+.btn-subir {
+    float: right;
+    margin-right: 20px;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-form {
+    background: #0099ff;
+    font-weight: 900;
+}
